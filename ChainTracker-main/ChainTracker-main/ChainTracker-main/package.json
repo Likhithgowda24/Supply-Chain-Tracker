@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "chaintracker-root",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix ./ChainTracker-main run dev",
+    "start": "npm --prefix ./ChainTracker-main run start",
+    "build": "npm --prefix ./ChainTracker-main run build",
+    "install:nested": "npm --prefix ./ChainTracker-main install"
+  },
+  "devDependencies": {
+    "cross-env": "^10.1.0"
+  }
+}

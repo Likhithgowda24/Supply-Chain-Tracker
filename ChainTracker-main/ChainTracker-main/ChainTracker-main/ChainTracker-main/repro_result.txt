@@ -1,0 +1,22 @@
+1. Registering Manufacturer...
+   Manufacturer Registered: 982501f1-eefc-42a1-ad56-777786fe4c72
+2. Registering Supplier (User)...
+   Supplier User Registered: 6b828f58-7cef-4ad1-a8c3-c0da48210a06
+3. Creating Product and Order...
+   Order Created: SCT-1764393407730-S0OR19D5G
+4. Manufacturer adding Supplier Contact...
+   Supplier Contact Added: 5e035adb-e54b-4b7d-8faf-d7697a04a072
+5. Assigning Order (using Contact ID)...
+   Assignment Response: {
+    "success":  true,
+    "message":  "Order sent to suppliers successfully",
+    "results":  [
+                    {
+                        "supplierId":  "5e035adb-e54b-4b7d-8faf-d7697a04a072",
+                        "success":  true
+                    }
+                ]
+}
+6. Checking Supplier Dashboard (as User)...
+   Assigned Orders Count: 1
+   Orders Found! Fix Verified.

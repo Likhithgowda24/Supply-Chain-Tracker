@@ -1,0 +1,46 @@
+[SEND-ORDER] Request: orderId=90358045-015d-4acf-92fd-02b2630a33f3, supplierIds=["e0f36495-fb95-4dad-8307-9e626162d902","68f0764b-b453-49c1-8fee-1f9d51166a6e"], manufacturerId=7fc1acbc-6a66-4872-8915-6e98a47e6b07
+[SEND-ORDER] Assigned order 90358045-015d-4acf-92fd-02b2630a33f3 to supplier 12072dd2-6936-4962-af2f-197749da2df8
+[SEND-ORDER] Assigned order 90358045-015d-4acf-92fd-02b2630a33f3 to supplier d531c0dd-7abf-4531-ac5f-1edc48cf827a
+[SEND-ORDER] Request: orderId=SCT-1764406411013-D0BWB0B6S, supplierIds=["e305ba33-1591-409d-8723-32a82b87e0f6"], manufacturerId=d003eaf5-d6d2-4385-a7cf-fb3948c97a39
+[SEND-ORDER] Assigned order SCT-1764406411013-D0BWB0B6S to supplier e305ba33-1591-409d-8723-32a82b87e0f6
+[ROUTE] /api/supplier/accept-order/SCT-1764406411013-D0BWB0B6S hit by e305ba33-1591-409d-8723-32a82b87e0f6
+[STORAGE] acceptOrder: Looking for SCT-1764406411013-D0BWB0B6S in 2 orders
+[STORAGE] Synced status 'accepted' to main order SCT-1764406411013-D0BWB0B6S
+[SEND-ORDER] Request: orderId=SCT-1764406426132-OGQBT79AY, supplierIds=["cef90387-0402-4f86-a93a-bfcba14949d3"], manufacturerId=8ee18bdf-9674-48f7-a090-276138889348
+[SEND-ORDER] Assigned order SCT-1764406426132-OGQBT79AY to supplier cef90387-0402-4f86-a93a-bfcba14949d3
+[ROUTE] /api/supplier/accept-order/SCT-1764406426132-OGQBT79AY hit by cef90387-0402-4f86-a93a-bfcba14949d3
+[STORAGE] acceptOrder: Looking for SCT-1764406426132-OGQBT79AY in 3 orders
+[STORAGE] Synced status 'accepted' to main order SCT-1764406426132-OGQBT79AY
+[SEND-ORDER] Request: orderId=SCT-1764406445820-G7RPTBXEY, supplierIds=["1f0ab903-525d-4a73-8350-a9284a59c5fe"], manufacturerId=c6e43a37-adec-4371-9272-9490be394318
+[SEND-ORDER] Assigned order SCT-1764406445820-G7RPTBXEY to supplier 1f0ab903-525d-4a73-8350-a9284a59c5fe
+[ROUTE] /api/supplier/accept-order/SCT-1764406445820-G7RPTBXEY hit by 1f0ab903-525d-4a73-8350-a9284a59c5fe
+[STORAGE] acceptOrder: Looking for SCT-1764406445820-G7RPTBXEY in 4 orders
+[STORAGE] Synced status 'accepted' to main order SCT-1764406445820-G7RPTBXEY
+[SEND-ORDER] Request: orderId=SCT-1764406519182-7T7MTC2HB, supplierIds=["e009c316-c9dd-477c-bc2a-3a1368755454"], manufacturerId=00b562f4-ef38-466f-aeb1-f5cde2545709
+[SEND-ORDER] Assigned order SCT-1764406519182-7T7MTC2HB to supplier e009c316-c9dd-477c-bc2a-3a1368755454
+[SEND-ORDER] Request: orderId=SCT-1764408761125-4W5AF025X, supplierIds=["53cd1b69-958b-447f-b1c8-88870a79dc1c"], manufacturerId=fc21e8dd-6549-43d5-948f-457fee896756
+[SEND-ORDER] Assigned order SCT-1764408761125-4W5AF025X to supplier 53cd1b69-958b-447f-b1c8-88870a79dc1c
+[SEND-ORDER] Request: orderId=SCT-1764409318238-0XWWSEY4R, supplierIds=["366cb14a-b1d1-423d-8954-a7b90b034add"], manufacturerId=7d0065e0-bcaa-41b2-af44-fbf0b99db439
+[SEND-ORDER] Assigned order SCT-1764409318238-0XWWSEY4R to supplier 366cb14a-b1d1-423d-8954-a7b90b034add
+[SEND-ORDER] Request: orderId=9ce16837-d777-4ad8-9e26-4d7dea81e340, supplierIds=["6a32d62a-85f7-4d84-90f5-dae42f401226","411e6697-9c42-49e9-8feb-8bf9181dc308"], manufacturerId=f53b8f97-a5eb-4031-9404-33923512f038
+[SEND-ORDER] Assigned order 9ce16837-d777-4ad8-9e26-4d7dea81e340 to supplier aed1abf1-a0f5-4461-b827-2e9389106da9
+[SEND-ORDER] Assigned order 9ce16837-d777-4ad8-9e26-4d7dea81e340 to supplier 952a6ee1-d981-4cc5-a919-5878bc7a6533
+[SEND-ORDER] Request: orderId=c12ca5e5-fd9c-480a-82df-32e0fc0920dc, supplierIds=["69bae464-af8a-4316-8c3b-ee035bddd24f"], manufacturerId=75533de0-fae8-448b-8d03-e4cdc2440e76
+[SEND-ORDER] Assigned order c12ca5e5-fd9c-480a-82df-32e0fc0920dc to supplier 0f767b87-c80b-4e8e-ad1d-74689aa494da
+[SEND-ORDER] Request: orderId=834b1ee7-10be-47b4-8cf6-e16c8866ff9a, supplierIds=["0a865e68-5e67-420c-8108-0e6412c71280"], manufacturerId=be82341e-e865-4a7a-8783-a9cdc2c6ccf5
+[SEND-ORDER] Assigned order 834b1ee7-10be-47b4-8cf6-e16c8866ff9a to supplier 08716f24-ec32-4100-8122-50571560c8e9
+[SEND-ORDER] Request: orderId=41950afe-6ab7-49f7-a692-d495b6a187fb, supplierIds=["ef27e7c8-1366-44b3-a36f-050616af6fff"], manufacturerId=9f2120f4-7f12-484a-9974-1e016ed5c730
+[SEND-ORDER] Assigned order 41950afe-6ab7-49f7-a692-d495b6a187fb to supplier 8f0b45db-2b00-48f5-9084-c83d328cbdfe
+[SEND-ORDER] Request: orderId=d29a04bc-008b-4c22-8e90-2e5518527d0c, supplierIds=["9123a420-034b-470c-b281-790c39aee181"], manufacturerId=6a0ae576-7b9d-412e-b5ec-88328800ae55
+[SEND-ORDER] Assigned order d29a04bc-008b-4c22-8e90-2e5518527d0c to supplier a774a3f4-bed0-4965-8724-446f2fb5b732
+[SEND-ORDER] Request: orderId=aa2bccb8-afa5-456e-b195-e0ef05ac1a44, supplierIds=["ca090f04-ba8c-4252-a37a-951bdf97e785"], manufacturerId=093690da-2bea-4114-98ff-c439d99b0935
+[SEND-ORDER] Assigned order aa2bccb8-afa5-456e-b195-e0ef05ac1a44 to supplier 0769f939-4aab-4471-aa16-68bb6c653888
+[SEND-ORDER] Request: orderId=bf0f225b-5596-4b0e-97c4-e27573de8f7e, supplierIds=["0d7e1a6e-f2d6-41c3-9e23-2386239ef065"], manufacturerId=8820144f-0a8e-4111-8d22-92b41a694871
+[SEND-ORDER] Assigned order bf0f225b-5596-4b0e-97c4-e27573de8f7e to supplier 67c9d72f-2b9e-44a6-b8e4-3a936cb962a1
+[SEND-ORDER] Request: orderId=1e080ce8-d808-479b-908d-7c7cd607f49b, supplierIds=["420b84d3-29b5-41cb-b106-fb9cfe945196"], manufacturerId=fdecde1c-287c-4a53-83c7-047ae994b308
+[SEND-ORDER] Assigned order 1e080ce8-d808-479b-908d-7c7cd607f49b to supplier 1d35840b-af64-4542-b72b-1069ebc4d9da
+[SEND-ORDER] Request: orderId=df0ac6fd-e0c8-479a-b9fe-4410114f39c7, supplierIds=["508fffa8-baef-4cff-a2fc-eeee36b760e9"], manufacturerId=9730b1d0-f4d6-444a-9e9a-9aec8f288ab2
+[SEND-ORDER] Assigned order df0ac6fd-e0c8-479a-b9fe-4410114f39c7 to supplier fac6b7c6-c050-4f43-bb08-a65e48785428
+[SEND-ORDER] Request: orderId=d7e55897-3120-4478-a454-2ae6b501b72e, supplierIds=["a0c25e20-c8ff-44c2-844e-a6e9daf73899","203c13f7-1f3d-4927-a641-e59bc702c7ee"], manufacturerId=1bf0ac60-1af4-4ee4-9bbd-b6b88b3154ac
+[SEND-ORDER] Assigned order d7e55897-3120-4478-a454-2ae6b501b72e to supplier 18f26855-f7fa-4738-bd85-872b5e09754b
+[SEND-ORDER] Assigned order d7e55897-3120-4478-a454-2ae6b501b72e to supplier 18a33d77-a068-41ac-9d01-d95d58c62df4
